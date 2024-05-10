@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.379,=C:\Users\Valse\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,=C:\Users\Valse\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.524,=C:\Works\projPng\lodepng.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,C:\Users\Valse\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Works\projPng\ProjPng.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\Valse\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Works\projPng\MainForm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,=C:\Works\projPng\lodepng.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\Valse\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Works\projPng\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,C:\Users\Valse\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Works\projPng\MainForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,=C:\Users\Valse\Downloads\lodepng.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,=C:\Works\projPng\lodepng.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,=C:\Users\Valse\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,=C:\Works\projPng\lodepng.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,C:\Users\Valse\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Works\projPng\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.413,=C:\Users\Valse\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
